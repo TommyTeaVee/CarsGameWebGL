@@ -24,6 +24,7 @@ It is very likely that your browser supports WebGL, you can test that <a href="h
 
 * [WebGL](https://get.webgl.org/) - The JavaScript API WebGL
 
-## Contributing
+## Authors
 
+<a href="https://github.com/rafoliveira">Rafael Oliveira</a>.
 <a href="https://github.com/asergios">António Sérgio Silva</a>.
