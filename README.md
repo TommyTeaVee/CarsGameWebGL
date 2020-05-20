@@ -4,6 +4,8 @@ CarsGameWebGL is an implementation of a car game idea in WebGL made for visual c
 The basic idea is to not crash on the traffic that is randomly coming down the road.
 The game allows the player to change camera view and day/night time. 
 
+Can be played <a href="https://rafoliveira.github.io/CarsGameWebGL/index.html">here</a>. 
+
 ![alt text](https://i.imgur.com/5s9RyVw.png)
 
 ![alt text](https://i.imgur.com/uRvwch2.png)
